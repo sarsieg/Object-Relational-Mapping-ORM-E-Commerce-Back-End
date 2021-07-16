@@ -32,7 +32,7 @@ This challenge is to build the back end for an e-commerce site. I will take a wo
 > THEN I am able to successfully create, update, and delete data in my database
 
 ## Walk Through
-[Walkthrough Videos]()
+[Walkthrough Videos](https://drive.google.com/file/d/1CAGbvQKRIl8gKO08QuGNfGsMflEwQ4SO/view)
 
 ## Installation
 In the root directory of the project, type in the terminal command line 'npm i' to download the dependencies. Initiate the database with 'mysql -u root -p', then 'source db/schema.sql' to create the tables. Exit the mysql terminal and from bash, type 'npm run seed' to seed the data into your tables. Now you can run 'npm start' to start your server.
