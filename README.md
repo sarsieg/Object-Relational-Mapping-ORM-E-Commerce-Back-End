@@ -3,7 +3,7 @@
 # Table of Contents
 * [Challenge](#challenge)
 * [User Story](#user-story)
-* [Acceptance Critiera](#acceptance-criteria)
+* [Acceptance Critieria](#acceptance-criteria)
 * [Walk Through](#walk-through)
 * [Installation](#installation)
 * [Technologies Used](#technologies-used)
